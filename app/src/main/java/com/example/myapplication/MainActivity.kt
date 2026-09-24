@@ -1,5 +1,5 @@
 package com.example.myapplication
-//contoh lgi
+//contoh lgi yuhuu
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
